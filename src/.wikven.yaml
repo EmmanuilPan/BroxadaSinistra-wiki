@@ -1,5 +1,5 @@
 skins:
-  - vector-2010
+  - VectorLegacy
 
 config:
   WikvenSiteUrl: https://emmanuilpan.github.io/BroxadaSinistra-wiki/
