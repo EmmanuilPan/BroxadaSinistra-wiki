@@ -1,2 +1,3 @@
 config:
+    SifterSearchBundlePath: /BroxadaSinistra-wiki/pagefind/
     SifterSearchResultsPage: "Search"
