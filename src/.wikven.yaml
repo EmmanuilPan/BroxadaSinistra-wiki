@@ -1,3 +1,4 @@
 config:
-    SifterSearchBundlePath: /BroxadaSinistra-wiki/pagefind/
-    SifterSearchResultsPage: "Search"
+  WikvenSiteUrl: https://emmanuilpan.github.io/BroxadaSinistra-wiki/
+  SifterSearchBundlePath: /BroxadaSinistra-wiki/pagefind/
+  SifterSearchResultsPage: "Search"
