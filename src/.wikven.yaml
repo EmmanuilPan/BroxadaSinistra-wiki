@@ -1,9 +1,7 @@
-config:
-  WikvenSiteUrl: https://emmanuilpan.github.io/BroxadaSinistra-wiki/
-  DefaultSkin: vector
-  SifterSearchBundlePath: /BroxadaSinistra-wiki/pagefind/
-  SifterSearchResultsPage: "Search"
-
-
 skins:
   - vector
+
+config:
+  WikvenSiteUrl: https://emmanuilpan.github.io/BroxadaSinistra-wiki/
+  SifterSearchBundlePath: /BroxadaSinistra-wiki/pagefind/
+  SifterSearchResultsPage: "Search"
